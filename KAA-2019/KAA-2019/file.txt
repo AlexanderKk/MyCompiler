@@ -1,0 +1,37 @@
+byte func myfun(byte a)
+[
+byte t : 0027.
+t : t + a.
+return t. 
+]
+
+program
+[
+byte inverse : ~ 15. 
+byte or : 55 | 80.
+byte and : 56 & 76.
+byte y : 11.
+byte d :  23.
+if (y > d)
+[
+print(y).
+]
+else
+[
+print(d).
+]
+byte variable : ((45 + 25) / 2) * (y - 2) & 40.
+print(variable).
+bool check : true.
+string  str : "hello".
+string sss : strcpy(str).
+print(sss).
+string n : "new".
+string s : "string".
+string ns : strcat(n, s).
+print(ns).
+]
+
+
+
+
