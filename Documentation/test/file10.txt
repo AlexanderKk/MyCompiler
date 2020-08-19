@@ -1,0 +1,7 @@
+program
+[
+string n : "new".
+string s : "string".
+string ns : strcat(n).
+print(ns).
+]

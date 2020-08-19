@@ -1,0 +1,9 @@
+program
+[
+string str : "if".
+if (str) 
+[
+print(str).
+]
+]
+

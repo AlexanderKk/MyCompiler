@@ -1,0 +1,13 @@
+bool func myfun(bool a)
+[
+return a. 
+]
+
+program
+[
+byte div : 87 / 0.
+bool check : true.
+bool m : myfun(check).
+print(m).
+]
+

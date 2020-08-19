@@ -1,0 +1,13 @@
+byte func myfun(byte a)
+[
+return a. 
+]
+
+program
+[
+string zz : "hello".
+string m : myfun(zz).
+print(m).
+]
+
+

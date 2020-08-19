@@ -1,0 +1,8 @@
+program
+[
+byte y : 12.
+byte y : 25.
+print(y).
+]
+
+

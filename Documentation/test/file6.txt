@@ -1,0 +1,13 @@
+string func myfun(string a)
+[
+return a. 
+]
+
+program
+[
+bool check : 123.
+string zz : "hello".
+string m : myfun(zz).
+print(m).
+]
+

@@ -1,0 +1,13 @@
+byte func myfun(byte a, byte b)
+[
+return a. 
+]
+
+program
+[
+byte y : 12.
+byte m : myfun(y).
+print(m).
+]
+
+

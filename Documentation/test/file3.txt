@@ -1,0 +1,14 @@
+byte func myfun(byte a)
+[
+return a. 
+]
+
+bool check : false.
+
+program
+[
+byte y : 12.
+byte m : myfun(y).
+print(m).
+]
+

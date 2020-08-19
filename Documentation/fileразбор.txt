@@ -1,0 +1,27 @@
+byte func myfun(byte a)
+[
+byte t : 012.
+t : t + a.
+return t. 
+]
+dvv
+[ 
+bool metka : true.
+byte or : 55 | 80.
+byte and : 56 & 76.
+if (or > and)
+[
+print (or).
+]
+else
+[
+print (and).
+]
+byte kmi : (45 + 25) * 2 / 1.
+bool check : false.
+string str : "str". 
+string  mystr : "mynewstring".
+string sss : strcpy(mystr).
+byte m : myfun(or).
+string nb : concat(mystr,str).
+]

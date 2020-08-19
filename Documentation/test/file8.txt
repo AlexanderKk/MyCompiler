@@ -1,0 +1,10 @@
+program
+[
+byte oct : 0089.
+byte dec : 259.
+print(oct).
+print(dec).
+]
+
+
+
